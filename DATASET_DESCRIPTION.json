@@ -1,0 +1,22 @@
+{
+  "title": "Summary tables and scenario-based calculations for a green-manufacturing case study in small-scale tofu production",
+  "material_type": "supporting dataset (summary tables; not raw records)",
+  "description": "Aggregate numeric tables and scenario calculations transcribed from manuscript Tables 2, 4, 5, 6 and 7, with explicitly documented limitations.",
+  "source_provenance": "Derived from manuscript summaries; original field logs, lab reports and economic source sheets not supplied for independent verification.",
+  "contents": [
+    "01_process_water_balance.csv",
+    "02_intervention_comparison.csv",
+    "03_wastewater_quality_single_test.csv",
+    "04_economic_basecase.csv",
+    "05_benefit_sensitivity.csv",
+    "README.md",
+    "REPRODUCE_SUMMARY.py"
+  ],
+  "data_limitations": "single enterprise; one 2-L test; designed rather than sustained operational performance; unverified financial assumptions and food safety",
+  "depositor_reported_zenodo_record": "https://zenodo.org/records/23609064",
+  "depositor_reported_zenodo_version_doi": "10.5281/zenodo.23609064",
+  "doi_verification": "not independently verified; cite DOI of exact published version",
+  "review_anonymity": "Creator information intentionally excluded from this file; public Zenodo/GitHub metadata may nevertheless identify authors.",
+  "license": "To be confirmed with rightsholders; this file does not grant a license.",
+  "verification": "selected computations reproduced; source data not independently verified"
+}
