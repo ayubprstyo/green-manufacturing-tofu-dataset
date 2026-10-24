@@ -1,0 +1,29 @@
+{
+  "resource_type": "dataset",
+  "title": "Summary tables and scenario-based calculations for a green-manufacturing case study in small-scale tofu production",
+  "creators_for_double_blind_review": [
+    "Anonymous research team — confirm editorial policy before public deposition"
+  ],
+  "creators_after_acceptance": [
+    "Ayub Prasetyo",
+    "Firda Amalia"
+  ],
+  "description": "Anonymized summary-level supporting tables extracted from an unpublished single-enterprise tofu-processing case study. Contains water balance, design-scenario intervention performance, a single laboratory sample, economic base-case assumptions, and deterministic sensitivity results. Underlying raw observation notes, laboratory certificates, and original economic workbook have not been provided and are not included.",
+  "keywords": [
+    "green manufacturing",
+    "tofu production",
+    "resource efficiency",
+    "wastewater",
+    "scenario analysis",
+    "small-scale manufacturing"
+  ],
+  "language": "English",
+  "license": "UNDECIDED — obtain permission from authors and enterprise before selecting an open license",
+  "doi": "NOT ASSIGNED — reserve or mint only on Zenodo",
+  "repository": "Zenodo (proposed)",
+  "publication_status": "DRAFT",
+  "relationship": "supplementary dataset for a manuscript submitted to JARTE (do not list as published article)",
+  "data_provenance": "aggregate values from Tables 2, 4, 5, 6 and 7 of the author-provided JARTE manuscript; not independently checked against primary source records",
+  "anonymity_note": "Any publicly registered DOI with creators or identity-bearing files may compromise double-blind peer review.",
+  "access_note": "Choose open/restricted only after enterprise consent and editorial data policy confirmation"
+}

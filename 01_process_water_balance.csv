@@ -1,0 +1,10 @@
+﻿process_stage,freshwater_l_per_batch,measured_wastewater_l_per_batch,data_type,notes
+soaking,56.000,44.800,case_measurement_summary,
+washing,58.875,49.063,case_measurement_summary,
+grinding,19.625,,case_measurement_summary,wastewater not separately measured; blank is NOT zero
+boiling,125.600,,case_measurement_summary,wastewater not separately measured; blank is NOT zero
+filtering,29.438,,case_measurement_summary,wastewater not separately measured; blank is NOT zero
+coagulation_whey,39.250,58.875,case_measurement_summary,whey includes earlier process-water contributions
+molding,,39.250,case_measurement_summary,water input not separately measured; blank is NOT zero
+cutting,,,case_measurement_summary,neither input nor output separately measured
+final_turmeric_boiling,62.800,17.584,case_measurement_summary,

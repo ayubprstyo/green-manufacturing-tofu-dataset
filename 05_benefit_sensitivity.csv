@@ -1,0 +1,5 @@
+﻿scenario,benefit_realization_factor,I1_payback_days_reported,I1_benefit_to_investment_multiple_reported,I2_payback_days_reported,I2_benefit_to_investment_multiple_reported,result_type
+base,1.00,4.3,84.19,1.0,381.17,deterministic_scenario
+conservative,0.75,5.8,63.14,1.3,285.88,deterministic_scenario
+very_conservative,0.50,8.7,42.09,1.9,190.59,deterministic_scenario
+stress,0.25,17.3,21.05,3.8,95.29,deterministic_scenario

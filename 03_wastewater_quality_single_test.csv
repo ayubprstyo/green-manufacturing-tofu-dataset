@@ -1,0 +1,5 @@
+﻿parameter,unit,before,after,reported_change,regulatory_limit_cited_by_manuscript,limit_met_in_single_test,result_type,notes
+BOD,mg/L,2264,1663,-26.5%,150,No,single_2_litre_sample,post value exceeds cited limit
+COD,mg/L,6089.72,3872.05,-36.4%,300,No,single_2_litre_sample,post value exceeds cited limit
+TSS,mg/L,1349,192,-85.8%,200,Yes_marginal,single_2_litre_sample,single test cannot establish consistent compliance
+pH,unitless,3.80,6.20,+2.4 units,6-9,Yes_marginal,single_2_litre_sample,pH change is in units; not a percentage

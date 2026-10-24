@@ -1,0 +1,3 @@
+﻿initiative,initial_investment_idr,estimated_annual_benefit_idr,payback_years_reported,payback_days_reported,benefit_to_initial_investment_multiple_reported,result_type,caveats
+I1_water_filtration_reuse,424350,35726086,0.0119,4.3,84.19,scenario_based_avoided_cost,water price IDR 87500/m3 implied by figures; source unverified; annualization 365 days; operating costs excluded
+I2_whey_to_fertilizer,300940,114710375,0.0026,1.0,381.17,scenario_based_net_cash_estimate,sales market not validated; cost structure unavailable; annualized full whey allocation unverified

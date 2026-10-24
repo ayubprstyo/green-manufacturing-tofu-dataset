@@ -1,0 +1,8 @@
+﻿indicator,unit,baseline,post_intervention,reported_change,result_type,notes
+soaking_freshwater,L/batch,56.000,20.675,-63.1%,scenario_based_design,reuse projected; food-contact water not validated
+soaking_wastewater_discharge,L/batch,44.800,9.475,-78.9%,scenario_based_design,"volume allocated to reuse, not continuous measured operation"
+washing_freshwater,L/batch,58.875,19.625,-66.7%,scenario_based_design,reuse projected; food-contact water not validated
+washing_wastewater_discharge,L/batch,49.063,9.813,-80.0%,scenario_based_design,post values rounded to three decimals in manuscript
+whey_discharge,L/batch,58.875,0,-100%,design_allocation,not an achieved sustained operation rate
+total_freshwater,L/day,5873.8,4755.2,-19.0%,scenario_based_design,based on 15 batches/day
+total_measured_wastewater,L/day,3143.6,1141.8,-63.7%,scenario_based_design,not a continuous treatment trial
